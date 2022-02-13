@@ -1,5 +1,12 @@
 # Proyecto - Predicciones ventas de comida
 Código que nos permitirá predecir las ventas para productos alimenticios que se venden en distintas tiendas.
+
+De acuerdo a los siguientes gráficos:
+
+![image](https://user-images.githubusercontent.com/95376884/153773239-d15d43bf-7848-49e5-b1e0-eff5408b96e6.png)
+
+
+
  
  En este proyecto se realizaron varias tareas, tales como: 
  
@@ -30,3 +37,4 @@ Código que nos permitirá predecir las ventas para productos alimenticios que s
    4. Aplicación de técnica 'One Hot Encoding' para convertir variables categóricas en numéricas.
    5. Validación del modelo por separación en conjuntos de datos de prueba y entrenamiento (train_test_split).
    
+
